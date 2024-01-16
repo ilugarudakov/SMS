@@ -1,0 +1,62 @@
+2023-01-10 12:54:13,371 - CRITICAL - AppFileLogger - {'__module__': 'config.config', 'DB_USER': 'root', 'DB_PWD': 'gtfdfdf', 'DB_HOST': '192.168.33.4', 'DB_PORT': '3306', 'DB_NAME': 'SMS_2', 'DB_URL': 'mysql://root:gtfdfdf@192.168.33.4:3306', 'SQLALCHEMY_DATABASE_URI': 'mysql://root:gtfdfdf@192.168.33.4:3306/SMS_2', 'SQLALCHEMY_TRACK_MODIFICATIONS': False, '__dict__': <attribute '__dict__' of 'DbConfig' objects>, '__weakref__': <attribute '__weakref__' of 'DbConfig' objects>, '__doc__': None}
+2023-01-10 14:29:00,247 - INFO - AppFileLogger - scheduler starting
+2023-01-10 14:33:02,999 - INFO - AppFileLogger - scheduler starting
+2023-01-10 16:32:40,991 - INFO - AppFileLogger -  admin is logging out
+2023-01-10 16:32:46,988 - INFO - AppFileLogger -  admin is autenticated
+2023-01-11 09:28:27,222 - INFO - AppFileLogger -  admin is logging out
+2023-01-11 09:28:30,747 - WARNING - AppFileLogger - User not found
+2023-01-11 09:28:35,117 - WARNING - AppFileLogger - User not found
+2023-01-11 09:28:49,805 - INFO - AppFileLogger -  admin is autenticated
+2023-01-11 10:06:26,034 - INFO - AppFileLogger -  admin is logging out
+2023-01-11 10:06:33,237 - INFO - AppFileLogger -  Olga is autenticated
+2023-01-11 10:06:42,762 - INFO - AppFileLogger -  Olga is logging out
+2023-01-11 10:07:27,883 - INFO - AppFileLogger -  admin is autenticated
+2023-01-11 10:08:04,666 - INFO - AppFileLogger -  admin is logging out
+2023-01-11 10:08:12,126 - INFO - AppFileLogger -  admin is autenticated
+2023-01-12 10:31:23,442 - INFO - AppFileLogger -  admin is autenticated
+2023-01-12 10:32:59,494 - INFO - AppFileLogger -  admin is autenticated
+2023-01-12 10:38:43,876 - INFO - AppFileLogger - {"state":{"value":"Accepted"},"id":6617084238469,"date":"Thu, 12 Jan 2023 10:38:43 +0200","execTime":6}
+2023-01-12 10:41:40,035 - INFO - AppFileLogger - admin trying to send message.
+2023-01-12 10:41:40,265 - INFO - AppFileLogger - {"state":{"value":"Accepted"},"id":6617084283226,"date":"Thu, 12 Jan 2023 10:41:40 +0200","execTime":88}
+2023-01-12 11:11:32,434 - INFO - AppFileLogger - scheduler starting
+2023-01-12 11:20:00,073 - INFO - AppFileLogger - Create mailing started
+2023-01-12 11:30:00,602 - INFO - AppFileLogger - Updating message statuses
+2023-01-12 11:49:10,198 - INFO - AppFileLogger - scheduler starting
+2023-01-12 12:04:13,854 - INFO - AppFileLogger - scheduler starting
+2023-01-12 12:04:55,803 - INFO - AppFileLogger - scheduler starting
+2023-01-12 12:10:00,699 - INFO - AppFileLogger - Making email report
+2023-01-13 09:22:09,915 - INFO - AppFileLogger - scheduler starting
+2023-01-13 09:30:00,824 - INFO - AppFileLogger - Create mailing started
+2023-01-13 09:35:00,069 - INFO - AppFileLogger - Updating message statuses
+2023-01-13 09:40:00,191 - INFO - AppFileLogger - Making email report
+2023-01-13 10:24:15,352 - INFO - AppFileLogger - scheduler starting
+2023-01-13 10:26:00,208 - INFO - AppFileLogger - Create mailing started
+2023-01-13 10:28:00,480 - INFO - AppFileLogger - Updating message statuses
+2023-01-13 10:30:00,184 - INFO - AppFileLogger - Making email report
+2023-01-13 10:36:04,688 - INFO - AppFileLogger - scheduler starting
+2023-01-13 10:37:00,188 - INFO - AppFileLogger - Create mailing started
+2023-01-13 10:38:00,004 - INFO - AppFileLogger - Updating message statuses
+2023-01-13 10:39:00,159 - INFO - AppFileLogger - Making email report
+2023-01-13 10:41:27,491 - INFO - AppFileLogger - scheduler starting
+2023-01-13 10:42:00,746 - INFO - AppFileLogger - Create mailing started
+2023-01-13 10:43:00,798 - INFO - AppFileLogger - Updating message statuses
+2023-01-13 10:48:53,545 - INFO - AppFileLogger - scheduler starting
+2023-01-13 10:50:00,130 - INFO - AppFileLogger - Create mailing started
+2023-01-13 10:51:00,019 - INFO - AppFileLogger - Updating message statuses
+2023-01-13 10:52:00,205 - INFO - AppFileLogger - Making email report
+2023-01-13 10:56:26,709 - INFO - AppFileLogger - scheduler starting
+2023-01-13 10:58:00,491 - INFO - AppFileLogger - Create mailing started
+2023-01-13 10:59:00,257 - INFO - AppFileLogger - Updating message statuses
+2023-01-13 11:00:00,622 - INFO - AppFileLogger - Making email report
+2023-01-13 11:05:56,723 - INFO - AppFileLogger - scheduler starting
+2023-01-13 11:07:00,260 - INFO - AppFileLogger - Create mailing started
+2023-01-13 11:08:00,125 - INFO - AppFileLogger - Updating message statuses
+2023-01-13 11:09:00,240 - INFO - AppFileLogger - Making email report
+2023-01-13 11:29:47,840 - INFO - AppFileLogger - scheduler starting
+2023-01-13 11:31:00,465 - INFO - AppFileLogger - Create mailing started
+2023-01-13 11:32:00,340 - INFO - AppFileLogger - Updating message statuses
+2023-01-13 11:33:00,488 - INFO - AppFileLogger - Making email report
+2023-01-13 11:37:06,929 - INFO - AppFileLogger - scheduler starting
+2023-01-13 11:38:00,419 - INFO - AppFileLogger - Create mailing started
+2023-01-13 11:39:00,289 - INFO - AppFileLogger - Updating message statuses
+2023-01-13 11:40:00,541 - INFO - AppFileLogger - Making email report

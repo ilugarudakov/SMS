@@ -1,0 +1,1076 @@
+2023-01-13 12:19:10,994 - INFO - AppFileLogger -  admin is autenticated
+2023-01-13 12:22:14,052 - INFO - AppFileLogger - scheduler starting
+2023-01-13 12:23:00,409 - INFO - AppFileLogger - Create mailing started
+2023-01-13 12:24:00,265 - INFO - AppFileLogger - Updating message statuses
+2023-01-13 12:25:00,435 - INFO - AppFileLogger - Making email report
+2023-01-16 11:05:34,075 - WARNING - AppFileLogger - User not found
+2023-01-16 11:05:47,268 - INFO - AppFileLogger -  admin is autenticated
+2023-01-16 11:06:02,257 - INFO - AppFileLogger -  admin is logging out
+2023-01-16 11:07:32,180 - INFO - AppFileLogger -  admin is autenticated
+2023-01-16 11:09:00,551 - INFO - AppFileLogger - scheduler starting
+2023-01-16 11:12:00,731 - INFO - AppFileLogger - Create mailing started
+2023-01-16 11:15:00,367 - INFO - AppFileLogger - Updating message statuses
+2023-01-16 11:17:00,464 - INFO - AppFileLogger - Making email report
+2023-01-16 12:32:52,618 - INFO - AppFileLogger - scheduler starting
+2023-01-16 12:36:18,145 - INFO - AppFileLogger - scheduler starting
+2023-01-16 12:38:08,141 - INFO - AppFileLogger - scheduler starting
+2023-01-16 12:43:26,455 - INFO - AppFileLogger - scheduler starting
+2023-01-16 15:53:00,619 - INFO - AppFileLogger - scheduler starting
+2023-01-16 15:55:00,516 - INFO - AppFileLogger - Create mailing started
+2023-01-16 15:55:05,954 - INFO - AppFileLogger - Object '<OmnicellTasks at 0x20f4c0a6ee0>' is already attached to session '6' (this is '7')
+2023-01-16 16:07:22,391 - INFO - AppFileLogger - scheduler starting
+2023-01-16 16:10:00,587 - INFO - AppFileLogger - Create mailing started
+2023-01-16 16:10:06,037 - INFO - AppFileLogger - Object '<OmnicellTasks at 0x2005e8a6e20>' is already attached to session '6' (this is '7')
+2023-01-16 16:16:14,282 - INFO - AppFileLogger - scheduler starting
+2023-01-16 16:17:00,608 - INFO - AppFileLogger - Create mailing started
+2023-01-16 16:17:06,045 - INFO - AppFileLogger - Object '<OmnicellTasks at 0x22c1ef06f40>' is already attached to session '6' (this is '7')
+2023-01-16 16:24:40,474 - INFO - AppFileLogger - scheduler starting
+2023-01-16 16:26:00,994 - INFO - AppFileLogger - Create mailing started
+2023-01-16 16:26:06,440 - INFO - AppFileLogger - Object '<OmnicellTasks at 0x20f988c6fa0>' is already attached to session '6' (this is '7')
+2023-01-16 16:28:37,182 - INFO - AppFileLogger - scheduler starting
+2023-01-16 16:30:00,675 - INFO - AppFileLogger - Create mailing started
+2023-01-16 16:31:00,550 - INFO - AppFileLogger - Updating message statuses
+2023-01-16 16:32:00,366 - INFO - AppFileLogger - Making email report
+2023-01-16 16:37:10,609 - INFO - AppFileLogger - scheduler starting
+2023-01-16 16:38:00,947 - INFO - AppFileLogger - Create mailing started
+2023-01-16 16:53:08,863 - INFO - AppFileLogger - scheduler starting
+2023-01-16 16:54:00,194 - INFO - AppFileLogger - Create mailing started
+2023-01-16 16:55:00,020 - INFO - AppFileLogger - Updating message statuses
+2023-01-16 16:56:00,058 - INFO - AppFileLogger - Making email report
+2023-01-16 17:01:09,209 - INFO - AppFileLogger - scheduler starting
+2023-01-16 17:02:11,360 - INFO - AppFileLogger - scheduler starting
+2023-01-16 17:03:00,644 - INFO - AppFileLogger - Create mailing started
+2023-01-16 17:04:00,538 - INFO - AppFileLogger - Updating message statuses
+2023-01-16 17:05:14,071 - INFO - AppFileLogger - scheduler starting
+2023-01-16 17:06:00,403 - INFO - AppFileLogger - Create mailing started
+2023-01-16 17:07:00,242 - INFO - AppFileLogger - Updating message statuses
+2023-01-16 17:08:00,070 - INFO - AppFileLogger - Making email report
+2023-01-16 17:24:16,474 - INFO - AppFileLogger - scheduler starting
+2023-01-16 17:25:00,798 - INFO - AppFileLogger - Create mailing started
+2023-01-16 17:26:00,768 - INFO - AppFileLogger - Updating message statuses
+2023-01-16 17:27:00,341 - INFO - AppFileLogger - Making email report
+2023-01-16 17:39:02,009 - INFO - AppFileLogger - scheduler starting
+2023-01-16 17:40:00,374 - INFO - AppFileLogger - Create mailing started
+2023-01-17 09:13:01,276 - INFO - AppFileLogger - scheduler starting
+2023-01-17 09:15:00,111 - INFO - AppFileLogger - Create mailing started
+2023-01-17 09:16:00,033 - INFO - AppFileLogger - Updating message statuses
+2023-01-17 09:17:00,035 - INFO - AppFileLogger - Making email report
+2023-01-17 09:19:48,386 - INFO - AppFileLogger - scheduler starting
+2023-01-17 09:21:00,872 - INFO - AppFileLogger - Create mailing started
+2023-01-17 09:22:00,721 - INFO - AppFileLogger - Updating message statuses
+2023-01-17 09:23:00,545 - INFO - AppFileLogger - Making email report
+2023-01-17 09:24:11,100 - INFO - AppFileLogger - scheduler starting
+2023-01-17 09:25:00,397 - INFO - AppFileLogger - Create mailing started
+2023-01-17 09:26:00,292 - INFO - AppFileLogger - Updating message statuses
+2023-01-17 09:27:00,003 - INFO - AppFileLogger - Making email report
+2023-01-17 09:30:27,191 - INFO - AppFileLogger - scheduler starting
+2023-01-17 09:32:00,783 - INFO - AppFileLogger - Create mailing started
+2023-01-17 09:33:00,642 - INFO - AppFileLogger - Updating message statuses
+2023-01-17 09:34:00,088 - INFO - AppFileLogger - Making email report
+2023-01-17 09:36:53,552 - INFO - AppFileLogger - scheduler starting
+2023-01-17 09:38:00,078 - INFO - AppFileLogger - Create mailing started
+2023-01-17 10:35:18,597 - INFO - AppFileLogger - scheduler starting
+2023-01-17 10:38:00,123 - INFO - AppFileLogger - Create mailing started
+2023-01-17 10:39:00,235 - INFO - AppFileLogger - Updating message statuses
+2023-01-17 10:40:00,708 - INFO - AppFileLogger - Making email report
+2023-01-17 10:46:24,331 - INFO - AppFileLogger - scheduler starting
+2023-01-17 10:47:00,479 - INFO - AppFileLogger - Create mailing started
+2023-01-17 10:48:00,016 - INFO - AppFileLogger - Updating message statuses
+2023-01-17 10:49:00,933 - INFO - AppFileLogger - Making email report
+2023-01-17 10:56:39,053 - INFO - AppFileLogger - scheduler starting
+2023-01-17 10:58:00,536 - INFO - AppFileLogger - Create mailing started
+2023-01-17 10:59:00,309 - INFO - AppFileLogger - Updating message statuses
+2023-01-17 11:01:23,559 - INFO - AppFileLogger - scheduler starting
+2023-01-17 11:03:00,311 - INFO - AppFileLogger - Create mailing started
+2023-01-17 11:04:00,187 - INFO - AppFileLogger - Updating message statuses
+2023-01-17 11:05:00,100 - INFO - AppFileLogger - Making email report
+2023-01-17 11:08:47,541 - INFO - AppFileLogger - scheduler starting
+2023-01-17 11:10:00,171 - INFO - AppFileLogger - Create mailing started
+2023-01-17 11:11:00,144 - INFO - AppFileLogger - Updating message statuses
+2023-01-17 11:12:00,035 - INFO - AppFileLogger - Making email report
+2023-01-18 11:32:45,823 - INFO - AppFileLogger - scheduler starting
+2023-01-18 11:34:13,449 - INFO - AppFileLogger - scheduler starting
+2023-01-18 11:36:00,140 - INFO - AppFileLogger - Create mailing started
+2023-01-18 11:36:00,140 - INFO - AppFileLogger - get_all_tasks_last_day() missing 1 required positional argument: 'self'
+2023-01-18 11:38:45,448 - INFO - AppFileLogger - scheduler starting
+2023-01-18 11:40:00,930 - INFO - AppFileLogger - Create mailing started
+2023-01-18 11:40:00,930 - INFO - AppFileLogger - get_all_tasks_last_day() missing 1 required positional argument: 'self'
+2023-01-18 12:07:27,626 - INFO - AppFileLogger - scheduler starting
+2023-01-18 12:10:00,481 - INFO - AppFileLogger - Create mailing started
+2023-01-18 12:11:00,729 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 12:11:00,729 - INFO - AppFileLogger - update_individual_accepted_tasks() missing 1 required positional argument: 'self'
+2023-01-18 12:12:43,773 - INFO - AppFileLogger - scheduler starting
+2023-01-18 12:13:00,883 - INFO - AppFileLogger - Create mailing started
+2023-01-18 12:14:00,685 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 12:14:00,685 - INFO - AppFileLogger - update_individual_accepted_tasks() missing 1 required positional argument: 'self'
+2023-01-18 12:19:29,362 - INFO - AppFileLogger - scheduler starting
+2023-01-18 12:21:00,870 - INFO - AppFileLogger - Create mailing started
+2023-01-18 12:22:00,591 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 12:22:00,591 - INFO - AppFileLogger - update_individual_accepted_tasks() missing 1 required positional argument: 'self'
+2023-01-18 12:23:37,609 - INFO - AppFileLogger - scheduler starting
+2023-01-18 12:25:00,040 - INFO - AppFileLogger - Create mailing started
+2023-01-18 12:26:00,662 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 12:27:00,407 - INFO - AppFileLogger - Making email report
+2023-01-18 12:27:01,311 - INFO - AppFileLogger - get_all_tasks_last_day() missing 1 required positional argument: 'self'
+2023-01-18 12:39:21,856 - INFO - AppFileLogger - scheduler starting
+2023-01-18 12:40:00,098 - INFO - AppFileLogger - Create mailing started
+2023-01-18 12:41:00,915 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 12:46:26,760 - INFO - AppFileLogger - scheduler starting
+2023-01-18 12:48:00,313 - INFO - AppFileLogger - Create mailing started
+2023-01-18 12:49:00,026 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 12:50:00,455 - INFO - AppFileLogger - Making email report
+2023-01-18 12:52:22,877 - INFO - AppFileLogger - scheduler starting
+2023-01-18 12:53:00,084 - INFO - AppFileLogger - Create mailing started
+2023-01-18 12:54:00,840 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 15:50:20,695 - INFO - AppFileLogger - scheduler starting
+2023-01-18 15:53:00,788 - INFO - AppFileLogger - Create mailing started
+2023-01-18 15:54:00,458 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 15:55:00,963 - INFO - AppFileLogger - Making email report
+2023-01-18 16:03:35,246 - INFO - AppFileLogger - scheduler starting
+2023-01-18 16:05:00,731 - INFO - AppFileLogger - Create mailing started
+2023-01-18 16:06:00,486 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 16:06:41,548 - INFO - AppFileLogger - scheduler starting
+2023-01-18 16:08:00,982 - INFO - AppFileLogger - Create mailing started
+2023-01-18 16:09:00,815 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 16:12:51,509 - INFO - AppFileLogger - scheduler starting
+2023-01-18 16:14:00,996 - INFO - AppFileLogger - Create mailing started
+2023-01-18 16:15:00,606 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 16:55:00,922 - INFO - AppFileLogger - Making email report
+2023-01-18 17:15:56,137 - INFO - AppFileLogger - scheduler starting
+2023-01-18 17:16:26,818 - WARNING - AppFileLogger - admin entering incorrect data
+2023-01-18 17:17:00,580 - INFO - AppFileLogger - Create mailing started
+2023-01-18 17:18:00,291 - INFO - AppFileLogger - Updating message statuses
+2023-01-18 17:18:54,471 - INFO - AppFileLogger - admin trying to send message.
+2023-01-18 17:18:54,991 - INFO - AppFileLogger - {"state":{"value":"Accepted"},"id":6617092593182,"date":"Wed, 18 Jan 2023 17:18:54 +0200","execTime":375}
+2023-01-18 17:20:27,460 - INFO - AppFileLogger - scheduler starting
+2023-01-18 19:00:00,506 - INFO - AppFileLogger - Create mailing started
+2023-01-19 05:00:00,008 - INFO - AppFileLogger - Updating message statuses
+2023-01-19 08:01:00,102 - INFO - AppFileLogger - Making email report
+2023-01-19 11:26:10,310 - INFO - AppFileLogger -  admin is autenticated
+2023-01-19 11:53:40,402 - INFO - AppFileLogger - scheduler starting
+2023-01-19 11:54:21,182 - INFO - AppFileLogger - Successful RPC request
+2023-01-19 11:55:00,017 - INFO - AppFileLogger - Create mailing started
+2023-01-19 11:57:22,903 - INFO - AppFileLogger - scheduler starting
+2023-01-19 12:00:00,062 - INFO - AppFileLogger - Updating message statuses
+2023-01-19 12:01:39,477 - INFO - AppFileLogger - scheduler starting
+2023-01-19 12:01:48,189 - INFO - AppFileLogger - Successful RPC request
+2023-01-19 12:05:00,823 - INFO - AppFileLogger - Create mailing started
+2023-01-20 09:33:07,567 - INFO - AppFileLogger - scheduler starting
+2023-01-20 09:35:00,235 - INFO - AppFileLogger - Create mailing started
+2023-01-20 09:37:00,332 - INFO - AppFileLogger - Updating message statuses
+2023-01-20 09:40:00,848 - INFO - AppFileLogger - Making email report
+2023-01-30 10:48:47,197 - INFO - AppFileLogger - scheduler starting
+2023-01-30 10:50:22,039 - INFO - AppFileLogger - scheduler starting
+2023-01-30 10:51:03,319 - INFO - AppFileLogger - scheduler starting
+2023-01-30 10:51:50,365 - INFO - AppFileLogger - Successful RPC request
+2023-01-30 10:55:00,163 - INFO - AppFileLogger - Create mailing started
+2023-01-30 10:56:00,102 - INFO - AppFileLogger - Updating message statuses
+2023-01-30 10:57:00,124 - INFO - AppFileLogger - Making email report
+2023-01-30 11:03:57,722 - INFO - AppFileLogger - scheduler starting
+2023-01-30 11:04:04,826 - INFO - AppFileLogger - Successful RPC request
+2023-01-30 11:05:00,152 - INFO - AppFileLogger - Create mailing started
+2023-01-30 11:05:05,479 - WARNING - AppFileLogger - Session is closed
+2023-01-30 11:06:00,848 - INFO - AppFileLogger - Updating message statuses
+2023-01-30 11:06:00,884 - WARNING - AppFileLogger - Session is closed
+2023-01-30 11:06:01,171 - WARNING - AppFileLogger - Session is closed
+2023-01-30 11:07:00,630 - INFO - AppFileLogger - Making email report
+2023-01-30 11:07:01,513 - WARNING - AppFileLogger - Session is closed
+2023-02-02 09:43:12,096 - INFO - AppFileLogger - scheduler starting
+2023-02-02 09:43:21,044 - WARNING - AppFileLogger - User not found
+2023-02-02 09:43:23,045 - WARNING - AppFileLogger - User not found
+2023-02-02 09:43:28,913 - INFO - AppFileLogger -  admin is autenticated
+2023-02-02 09:43:32,283 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 09:45:00,045 - INFO - AppFileLogger - Create mailing started
+2023-02-02 09:45:05,497 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 09:46:00,895 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 09:46:01,503 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 09:46:01,540 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 09:47:00,966 - INFO - AppFileLogger - Making email report
+2023-02-02 09:47:01,836 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 09:51:39,036 - INFO - AppFileLogger - scheduler starting
+2023-02-02 09:55:00,628 - INFO - AppFileLogger - Create mailing started
+2023-02-02 09:55:06,014 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 09:56:00,442 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 09:56:00,813 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 09:56:01,000 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 09:57:00,489 - INFO - AppFileLogger - Making email report
+2023-02-02 09:57:01,372 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 09:59:43,506 - INFO - AppFileLogger - scheduler starting
+2023-02-02 10:05:00,825 - INFO - AppFileLogger - Create mailing started
+2023-02-02 10:05:06,247 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 10:06:00,640 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:06:00,640 - INFO - AppFileLogger - division by zero
+2023-02-02 10:09:38,629 - INFO - AppFileLogger - scheduler starting
+2023-02-02 10:11:00,236 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:11:00,236 - INFO - AppFileLogger - division by zero
+2023-02-02 10:17:00,257 - INFO - AppFileLogger - scheduler starting
+2023-02-02 10:17:45,535 - INFO - AppFileLogger -  admin is logging out
+2023-02-02 10:17:49,274 - INFO - AppFileLogger -  admin is autenticated
+2023-02-02 10:17:52,238 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 10:18:00,752 - INFO - AppFileLogger - Create mailing started
+2023-02-02 10:18:06,077 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 10:25:14,593 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 10:26:33,292 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 10:27:31,450 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 10:30:25,701 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 10:30:32,284 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 10:30:35,827 - WARNING - AppFileLogger - Session is closed, engine disposed
+2023-02-02 10:42:59,001 - INFO - AppFileLogger - scheduler starting
+2023-02-02 10:43:07,669 - INFO - AppFileLogger - scheduler starting
+2023-02-02 10:44:08,090 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:45:09,122 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:46:09,639 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:47:10,158 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:48:10,642 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:49:11,178 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:50:11,723 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:51:12,249 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:52:12,684 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:53:13,240 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:54:13,734 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:55:14,295 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:56:14,808 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:57:15,437 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:58:16,086 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 10:59:16,586 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 11:00:17,172 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 11:01:17,761 - INFO - AppFileLogger - Updating message statuses
+2023-02-02 11:01:19,812 - INFO - AppFileLogger - (MySQLdb.OperationalError) (2002, "Can't connect to server on '192.168.33.4' (10061)")
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+2023-02-09 09:34:48,827 - INFO - AppFileLogger - scheduler starting
+2023-02-09 09:35:49,239 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 09:36:49,880 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 09:37:50,401 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 09:38:50,860 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 09:39:51,386 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 09:40:00,511 - INFO - AppFileLogger - Create mailing started
+2023-02-09 09:40:00,874 - INFO - AppFileLogger - update_message_statuses() missing 1 required positional argument: 'messages'
+2023-02-09 10:03:04,782 - INFO - AppFileLogger - scheduler starting
+2023-02-09 10:04:05,339 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 10:05:00,949 - INFO - AppFileLogger - Create mailing started
+2023-02-09 10:05:01,256 - INFO - AppFileLogger - update_message_statuses() missing 1 required positional argument: 'messages'
+2023-02-09 10:33:42,570 - INFO - AppFileLogger - scheduler starting
+2023-02-09 10:34:43,010 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 10:35:00,300 - INFO - AppFileLogger - Create mailing started
+2023-02-09 10:35:43,907 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 10:47:04,519 - INFO - AppFileLogger - scheduler starting
+2023-02-09 10:48:00,972 - INFO - AppFileLogger - Create mailing started
+2023-02-09 10:48:07,261 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:02:54,668 - INFO - AppFileLogger - scheduler starting
+2023-02-09 11:03:55,216 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:04:55,837 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:05:00,923 - INFO - AppFileLogger - Create mailing started
+2023-02-09 11:05:56,609 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:06:57,443 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:07:58,079 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:08:58,594 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:09:59,134 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:10:59,701 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:12:00,304 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:13:00,838 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:14:01,386 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:15:01,915 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:16:02,443 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:17:03,050 - INFO - AppFileLogger - Updating message statuses
+2023-02-09 11:18:03,722 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:06:40,962 - INFO - AppFileLogger - scheduler starting
+2023-02-10 12:07:41,517 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:07:44,611 - WARNING - AppFileLogger - Debug rpc data: 666, 0963417968, test 10 02
+2023-02-10 12:07:44,611 - INFO - AppFileLogger - Successful RPC request
+2023-02-10 12:08:42,404 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:09:42,933 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:10:43,582 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:10:58,621 - WARNING - AppFileLogger - Debug rpc data: 666, 0963417968, test 10 02
+2023-02-10 12:10:58,621 - INFO - AppFileLogger - Successful RPC request
+2023-02-10 12:11:44,193 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:12:44,811 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:13:45,500 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:14:46,172 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:15:46,837 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:16:42,436 - CRITICAL - AppFileLogger - Test_poin called with: 0963417968, test 10 02, 666
+2023-02-10 12:16:47,512 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:17:48,130 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:18:48,713 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:19:09,474 - CRITICAL - AppFileLogger - Test_poin called with: 0963417968, test 10 02, 666
+2023-02-10 12:19:37,979 - CRITICAL - AppFileLogger - Test_poin called with: 0963417968, test 10 02, 666
+2023-02-10 12:19:49,360 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:20:24,961 - CRITICAL - AppFileLogger - Test_poin called with: 0963417968, test 10 02, 666
+2023-02-10 12:20:33,613 - CRITICAL - AppFileLogger - Test_poin called with: 0963417968, test 10 02, 666
+2023-02-10 12:20:50,007 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:20:53,299 - WARNING - AppFileLogger - Debug rpc data: 666, 0963417968, test 10 02
+2023-02-10 12:20:53,299 - INFO - AppFileLogger - Successful RPC request: 666, +380963417968, test 10 02 
+2023-02-10 12:21:50,586 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:22:12,781 - WARNING - AppFileLogger - Debug rpc data: -1, 0963417968, test 10 02
+2023-02-10 12:22:12,781 - INFO - AppFileLogger - Successful RPC request: -1, +380963417968, test 10 02 
+2023-02-10 12:22:51,207 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:23:51,875 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:24:22,271 - WARNING - AppFileLogger - Debug rpc data: -1, 0963417968, test 10 02
+2023-02-10 12:24:22,271 - WARNING - AppFileLogger - Bad RPC request
+2023-02-10 12:24:52,524 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:25:30,027 - WARNING - AppFileLogger - Debug rpc data: -1, 0963417968, test 10 02
+2023-02-10 12:25:53,065 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:26:53,732 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:27:54,368 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:28:00,288 - WARNING - AppFileLogger - Debug rpc data: -1, 0963417968, 
+2023-02-10 12:28:07,409 - WARNING - AppFileLogger - Debug rpc data: 20, 0963417968, 
+2023-02-10 12:28:52,030 - WARNING - AppFileLogger - Debug rpc data: 20, 0963417968, dfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+2023-02-10 12:28:54,975 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:29:05,020 - WARNING - AppFileLogger - Debug rpc data: 20, 0963417968, dfdffdfdfdf
+2023-02-10 12:29:05,020 - INFO - AppFileLogger - Successful RPC request: 20, +380963417968, dfdffdfdfdf 
+2023-02-10 12:29:55,622 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:30:56,287 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:31:56,885 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:32:57,530 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:33:58,141 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:34:58,685 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:35:59,228 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:36:59,817 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:38:00,397 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:39:00,983 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:40:01,591 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:41:02,224 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:42:02,811 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:43:03,315 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:44:03,922 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:45:04,489 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:46:04,964 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:47:05,448 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:48:06,020 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:49:06,769 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:50:07,303 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:51:07,878 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:52:08,385 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:53:08,866 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:54:09,359 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:55:10,128 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:56:10,644 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:57:11,150 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:58:11,715 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 12:59:12,251 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:00:12,803 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:01:13,369 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:02:13,927 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:03:14,488 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:04:15,092 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:05:15,642 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:06:16,217 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:07:16,905 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:08:17,515 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:09:18,098 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:10:18,690 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:11:19,219 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:12:19,779 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:13:20,387 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:14:20,963 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:15:21,585 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:16:22,124 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:17:22,684 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:18:23,242 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:19:23,913 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:20:24,597 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:21:25,192 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:22:25,763 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:23:26,308 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:24:26,931 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:25:27,555 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:26:28,123 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:27:28,714 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:28:29,293 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:29:29,872 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:30:30,464 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:31:31,024 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:32:31,592 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:33:32,183 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:34:32,712 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:35:33,267 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:36:33,869 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:37:34,474 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:38:35,049 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:39:35,614 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:40:36,187 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:41:36,769 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:42:37,349 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:43:37,928 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:44:38,546 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:45:39,112 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:46:39,682 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:47:40,243 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:48:40,804 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:49:41,350 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:50:41,966 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:51:42,507 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:52:43,113 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:53:43,734 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:54:44,281 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:55:44,860 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:56:45,427 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:57:46,057 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:58:46,636 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 13:59:47,291 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:00:47,811 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:01:48,361 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:02:48,850 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:03:49,403 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:04:50,003 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:05:50,607 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:06:51,223 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:07:51,861 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:08:52,489 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:09:53,049 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:10:53,715 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:11:54,350 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:12:54,985 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:13:55,550 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:14:56,020 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:15:56,634 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:16:57,224 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:17:57,837 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:18:58,531 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:19:59,132 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:20:59,754 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:22:00,433 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:23:01,093 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:24:01,737 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:25:02,396 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:26:03,031 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:27:03,737 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:28:04,381 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:29:05,000 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:30:05,546 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:31:06,053 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:32:06,669 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:33:07,216 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:34:07,712 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:35:08,474 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:36:08,991 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:37:09,442 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:38:09,931 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:39:10,516 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:40:11,142 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:41:11,771 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:42:12,417 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:43:12,981 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:44:13,573 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:45:14,156 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:46:14,708 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:47:15,314 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:48:15,905 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:49:16,458 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:50:17,083 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:51:17,597 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:52:18,188 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:53:18,799 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:54:19,442 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:55:20,007 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:56:20,611 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:57:21,183 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:58:21,815 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 14:59:22,465 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:00:23,056 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:01:23,612 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:02:24,416 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:03:24,959 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:04:25,543 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:05:26,188 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:06:26,779 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:07:27,383 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:08:28,014 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:09:28,570 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:10:29,157 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:11:29,719 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:12:30,291 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:13:30,828 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:14:31,436 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:15:31,940 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:16:32,400 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:17:32,826 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:18:33,386 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:19:33,954 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:20:34,540 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:21:35,135 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:22:35,787 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:23:36,417 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:24:36,994 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:25:37,622 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:26:38,208 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:27:38,818 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:28:39,414 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:29:40,091 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:30:40,655 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:31:41,201 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:32:41,815 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:33:42,432 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:34:43,023 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:35:43,644 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:36:44,258 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:37:44,874 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:38:45,486 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:39:46,086 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:40:46,691 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:41:47,251 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:42:47,773 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:43:48,340 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:44:48,922 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:45:49,479 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:46:50,025 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:47:50,563 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:48:51,107 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:49:51,671 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:50:52,252 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:51:52,756 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:52:53,301 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:53:53,835 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:54:54,379 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:55:54,941 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:56:55,480 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:57:56,031 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:58:56,581 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 15:59:57,168 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 16:00:57,696 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 16:01:58,251 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 16:02:58,787 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 16:03:59,347 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 16:04:59,887 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 16:06:00,486 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 16:07:01,067 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 16:08:01,654 - INFO - AppFileLogger - Updating message statuses
+2023-02-10 16:09:02,186 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:05:37,383 - INFO - AppFileLogger - scheduler starting
+2023-03-31 11:06:37,914 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:19:58,994 - INFO - AppFileLogger - scheduler starting
+2023-03-31 11:20:59,516 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:22:00,218 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:32:26,091 - INFO - AppFileLogger - scheduler starting
+2023-03-31 11:33:26,673 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:33:27,197 - INFO - AppFileLogger - 
+ post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000002B3917595B0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:33:27,197 - INFO - AppFileLogger - 
+ response=<Response [200]>
+2023-03-31 11:33:27,344 - INFO - AppFileLogger - 
+ post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000002B3917595E0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:33:27,344 - INFO - AppFileLogger - 
+ response=<Response [200]>
+2023-03-31 11:34:27,917 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:34:28,087 - INFO - AppFileLogger - 
+ post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000002B391790B80>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:34:28,087 - INFO - AppFileLogger - 
+ response=<Response [200]>
+2023-03-31 11:34:28,224 - INFO - AppFileLogger - 
+ post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000002B391790D00>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:34:28,224 - INFO - AppFileLogger - 
+ response=<Response [200]>
+2023-03-31 11:39:05,221 - INFO - AppFileLogger - scheduler starting
+2023-03-31 11:39:15,328 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:39:15,586 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x00000254DDCB7220>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:39:15,587 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:39:15 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:39:15,732 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x00000254DDCB71F0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:39:15,733 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:39:15 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:39:25,855 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:39:26,076 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x00000254DDCF09D0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:39:26,076 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:39:25 +0300","reports":"waiting","execTime":2}
+2023-03-31 11:39:26,205 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x00000254DDC7C2B0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:39:26,206 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:39:26 +0300","reports":"waiting","execTime":2}
+2023-03-31 11:49:19,303 - INFO - AppFileLogger - scheduler starting
+2023-03-31 11:49:49,539 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:49:49,785 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x00000291A04F9A90>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:49:49,786 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:49:49 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:49:49,951 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x00000291A04F9A60>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:49:49,952 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:49:49 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:50:22,589 - INFO - AppFileLogger - scheduler starting
+2023-03-31 11:50:52,883 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:50:53,131 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221DC9A90>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:50:53,131 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:50:53 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:50:53,248 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221DC9A60>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:50:53,248 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:50:53 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:51:23,542 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:51:23,709 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221D8B9A0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:51:23,709 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:51:23 +0300","reports":"waiting","execTime":2}
+2023-03-31 11:51:23,847 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221DAFAC0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:51:23,847 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:51:23 +0300","reports":"waiting","execTime":4}
+2023-03-31 11:51:54,156 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:51:54,361 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221E3CE80>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:51:54,361 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:51:54 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:51:54,511 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221E3C040>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:51:54,512 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:51:54 +0300","reports":"waiting","execTime":4}
+2023-03-31 11:52:00,588 - INFO - AppFileLogger - Create mailing started
+2023-03-31 11:52:00,874 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221DF6880>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'uniq_key': 30902388, 'id': 'individual', 'source': 'EVEREST', 'desc': 'Payment remind', 'type': 'SMS', 'to': [{'msisdn': '+380963417968', 'body': {'value': 'Шановний  абонент! Ваш тариф Корпоративний 50Мбіт/с за договором 149274 буде призупинено через  3 днів. Сплатіть 1750.0грн., щоб користуватись послугою.'}}, {'msisdn': '+380963417968', 'body': {'value': 'Шановний  абонент! Ваш тариф Корпоративний 50Мбіт/с за договором 149274 буде призупинено через  3 днів. Сплатіть 1750.0грн., щоб користуватись послугою.'}}]}
+2023-03-31 11:52:00,874 - INFO - AppFileLogger -  response={"state":{"value":"sending"},"total":"2","queued":"0","accepted":"2","enroute":"0","delivered":"0","expired":"0","undeliverable":"0","unknown":"0","id":6612615904472,"groupid":30902388,"date":"Fri, 31 Mar 2023 11:52:00 +0300","reports":"waiting","detail":[{"id":6617189837210,"state":{"value":"Accepted"}},{"id":6617189837211,"state":{"value":"Accepted"}}],"execTime":43}
+2023-03-31 11:52:25,113 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:52:25,507 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221E77970>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 30902388, 'value': 'details'}
+2023-03-31 11:52:25,507 - INFO - AppFileLogger -  response={"state":{"value":"sending"},"total":"2","accepted":"2","enroute":"0","delivered":"2","expired":"0","undeliverable":"0","unknown":"0","groupid":30902388,"date":"Fri, 31 Mar 2023 11:52:25 +0300","reports":"waiting","detail":[{"id":6617189837211,"state":{"value":"Delivered"},"deliveryDate":"2023-03-31T08:52:06.067+00:00","date":"2023-03-31T08:52:06.067+00:00","deliveryChannel":"SMS","direction":"kievstar"},{"id":6617189837210,"state":{"value":"Delivered"},"deliveryDate":"2023-03-31T08:52:04.831+00:00","date":"2023-03-31T08:52:04.831+00:00","deliveryChannel":"SMS","direction":"kievstar"}],"execTime":211}
+2023-03-31 11:52:25,767 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EA1AF0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:52:25,767 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:52:25 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:52:25,925 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EA1B80>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:52:25,925 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:52:25 +0300","reports":"waiting","execTime":2}
+2023-03-31 11:52:56,239 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:52:56,612 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EA1BB0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 30902388, 'value': 'details'}
+2023-03-31 11:52:56,613 - INFO - AppFileLogger -  response={"state":{"value":"sent"},"total":"2","accepted":"2","enroute":"0","delivered":"2","expired":"0","undeliverable":"0","unknown":"0","groupid":30902388,"date":"Fri, 31 Mar 2023 11:52:56 +0300","reports":"completed","detail":[{"id":6617189837211,"state":{"value":"Delivered"},"deliveryDate":"2023-03-31T08:52:06.067+00:00","date":"2023-03-31T08:52:06.067+00:00","deliveryChannel":"SMS","direction":"kievstar"},{"id":6617189837210,"state":{"value":"Delivered"},"deliveryDate":"2023-03-31T08:52:04.831+00:00","date":"2023-03-31T08:52:04.831+00:00","deliveryChannel":"SMS","direction":"kievstar"}],"execTime":205}
+2023-03-31 11:52:56,741 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EA1B20>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:52:56,741 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:52:56 +0300","reports":"waiting","execTime":2}
+2023-03-31 11:52:56,871 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EB01C0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:52:56,871 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:52:56 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:53:27,206 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:53:27,393 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EB01C0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:53:27,393 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:53:27 +0300","reports":"waiting","execTime":2}
+2023-03-31 11:53:27,530 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EB0F40>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:53:27,531 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:53:27 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:53:57,852 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:53:58,036 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EC9C10>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:53:58,037 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:53:57 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:53:58,168 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EC9B20>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:53:58,168 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:53:58 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:54:28,442 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:54:28,611 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221E93B80>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:54:28,611 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:54:28 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:54:28,757 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EB0AF0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:54:28,757 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:54:28 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:54:59,039 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:54:59,209 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EEBAC0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:54:59,210 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:54:59 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:54:59,348 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EEB910>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:54:59,349 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:54:59 +0300","reports":"waiting","execTime":2}
+2023-03-31 11:55:29,652 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:55:29,830 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EF9CD0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:55:29,830 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:55:29 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:55:29,966 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EF9E50>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:55:29,966 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:55:29 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:56:00,306 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:56:00,493 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F04640>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:56:00,494 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:56:00 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:56:00,619 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F04700>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:56:00,619 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:56:00 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:56:30,935 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:56:31,125 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F13D60>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:56:31,126 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:56:31 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:56:31,266 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F13E50>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:56:31,267 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:56:31 +0300","reports":"waiting","execTime":2}
+2023-03-31 11:57:01,575 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:57:01,749 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EF9520>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:57:01,750 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:57:01 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:57:01,895 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EF9160>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:57:01,895 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:57:01 +0300","reports":"waiting","execTime":4}
+2023-03-31 11:57:32,196 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:57:32,386 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F13DC0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:57:32,386 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:57:32 +0300","reports":"waiting","execTime":4}
+2023-03-31 11:57:32,523 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EE1C70>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:57:32,524 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:57:32 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:58:02,799 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:58:02,976 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221ED5E50>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:58:02,976 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:58:02 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:58:03,112 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221ED58B0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:58:03,112 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:58:03 +0300","reports":"waiting","execTime":2}
+2023-03-31 11:58:33,410 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:58:33,570 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EBDBB0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:58:33,570 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:58:33 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:58:33,697 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EE18E0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:58:33,697 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:58:33 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:59:03,975 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:59:04,149 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EB0310>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:59:04,150 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:59:04 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:59:04,292 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EB0E80>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:59:04,292 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:59:04 +0300","reports":"waiting","execTime":2}
+2023-03-31 11:59:34,615 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 11:59:34,786 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EC9610>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 11:59:34,786 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:59:34 +0300","reports":"waiting","execTime":3}
+2023-03-31 11:59:34,938 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221E93760>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 11:59:34,938 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 11:59:34 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:00:05,251 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:00:05,419 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221E933A0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:00:05,420 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:00:05 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:00:05,570 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221E6AF10>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:00:05,571 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:00:05 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:00:35,861 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:00:36,024 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F1DEE0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:00:36,024 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:00:35 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:00:36,152 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EB0730>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:00:36,152 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:00:36 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:01:06,435 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:01:06,604 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EA3D00>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:01:06,604 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:01:06 +0300","reports":"waiting","execTime":4}
+2023-03-31 12:01:06,737 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EA3790>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:01:06,738 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:01:06 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:01:36,993 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:01:37,173 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F33580>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:01:37,174 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:01:37 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:01:37,314 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F339D0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:01:37,314 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:01:37 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:02:07,649 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:02:07,836 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F33EB0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:02:07,836 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:02:07 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:02:07,989 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221E6AA30>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:02:07,989 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:02:07 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:02:38,323 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:02:38,470 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F57D00>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:02:38,471 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:02:38 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:02:38,620 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F575B0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:02:38,620 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:02:38 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:03:08,927 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:03:09,107 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F33D90>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:03:09,107 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:03:08 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:03:09,248 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F33B20>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:03:09,249 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:03:09 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:03:39,554 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:03:39,732 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F57DF0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:03:39,732 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:03:39 +0300","reports":"waiting","execTime":4}
+2023-03-31 12:03:39,864 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F57070>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:03:39,864 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:03:39 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:04:10,175 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:04:10,357 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F1DEB0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:04:10,358 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:04:10 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:04:10,504 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221F1DD30>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:04:10,505 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:04:10 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:04:40,783 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:04:40,958 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221E93970>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:04:40,958 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:04:40 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:04:41,108 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221E93370>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:04:41,108 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:04:41 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:05:11,390 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:05:11,561 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EA1B50>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:05:11,562 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:05:11 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:05:11,683 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EA1D60>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:05:11,683 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:05:11 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:05:41,930 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:05:42,089 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EBDF40>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:05:42,089 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:05:41 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:05:42,229 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EB0A00>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:05:42,229 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:05:42 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:06:12,463 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:06:12,636 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EC92E0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:06:12,637 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:06:12 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:06:12,778 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221ED5880>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:06:12,778 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:06:12 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:06:43,065 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:06:43,234 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EB0FD0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:06:43,234 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:06:43 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:06:43,358 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EB0DF0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:06:43,358 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:06:43 +0300","reports":"waiting","execTime":2}
+2023-03-31 12:07:13,674 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 12:07:13,844 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EEB5B0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 12:07:13,844 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:07:13 +0300","reports":"waiting","execTime":3}
+2023-03-31 12:07:13,994 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E221EEB0D0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 12:07:13,994 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 12:07:13 +0300","reports":"waiting","execTime":2}
+2023-03-31 14:25:23,147 - INFO - AppFileLogger - scheduler starting
+2023-03-31 14:25:53,405 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 14:25:53,602 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000018FEF287700>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 53344519, 'value': 'details'}
+2023-03-31 14:25:53,602 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:25:53 +0300","reports":"waiting","execTime":7}
+2023-03-31 14:25:53,720 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000018FEF287280>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 14:25:53,720 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:25:53 +0300","reports":"waiting","execTime":2}
+2023-03-31 14:25:53,842 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000018FEF287340>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 14:25:53,842 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:25:53 +0300","reports":"waiting","execTime":2}
+2023-03-31 14:31:01,100 - INFO - AppFileLogger - scheduler starting
+2023-03-31 14:31:31,362 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 14:31:31,614 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000025509779AC0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 53344519, 'value': 'details'}
+2023-03-31 14:31:31,614 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:31:31 +0300","reports":"waiting","execTime":3}
+2023-03-31 14:31:31,734 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000025509779A90>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 14:31:31,734 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:31:31 +0300","reports":"waiting","execTime":3}
+2023-03-31 14:31:31,856 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000025509779970>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 14:31:31,856 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:31:31 +0300","reports":"waiting","execTime":3}
+2023-03-31 14:32:00,101 - INFO - AppFileLogger - Create mailing started
+2023-03-31 14:32:02,184 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 14:32:02,361 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x00000255097F7AC0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 53344519, 'value': 'details'}
+2023-03-31 14:32:02,361 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:32:02 +0300","reports":"waiting","execTime":2}
+2023-03-31 14:32:02,501 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000025509806190>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 14:32:02,501 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:32:02 +0300","reports":"waiting","execTime":2}
+2023-03-31 14:32:02,637 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000025509806F40>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 14:32:02,637 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:32:02 +0300","reports":"waiting","execTime":2}
+2023-03-31 14:39:46,378 - INFO - AppFileLogger - scheduler starting
+2023-03-31 14:40:00,498 - INFO - AppFileLogger - Create mailing started
+2023-03-31 14:45:36,311 - INFO - AppFileLogger - scheduler starting
+2023-03-31 14:46:00,513 - INFO - AppFileLogger - Create mailing started
+2023-03-31 14:46:06,683 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 14:46:06,843 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000002D65870DCA0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 53344519, 'value': 'details'}
+2023-03-31 14:46:06,843 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:46:06 +0300","reports":"waiting","execTime":3}
+2023-03-31 14:46:06,978 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000002D65870D490>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 14:46:06,979 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:46:06 +0300","reports":"waiting","execTime":6}
+2023-03-31 14:46:07,135 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000002D65870D730>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-03-31 14:46:07,136 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:46:07 +0300","reports":"waiting","execTime":3}
+2023-03-31 14:49:42,219 - INFO - AppFileLogger - scheduler starting
+2023-03-31 14:50:00,380 - INFO - AppFileLogger - Create mailing started
+2023-03-31 14:50:12,597 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 14:50:12,760 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001D206DACFD0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 14:50:12,760 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:50:12 +0300","reports":"waiting","execTime":3}
+2023-03-31 14:50:43,054 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 14:50:43,260 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001D206DBAD30>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 14:50:43,260 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:50:43 +0300","reports":"waiting","execTime":3}
+2023-03-31 14:51:13,587 - INFO - AppFileLogger - Updating message statuses
+2023-03-31 14:51:13,812 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001D206DC1C70>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-03-31 14:51:13,812 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Fri, 31 Mar 2023 14:51:13 +0300","reports":"waiting","execTime":4}
+2023-04-03 09:09:04,983 - INFO - AppFileLogger - scheduler starting
+2023-04-03 09:09:11,877 - INFO - AppFileLogger - scheduler starting
+2023-04-03 09:09:42,136 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:09:42,456 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001E547D075E0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-04-03 09:09:42,457 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Mon, 03 Apr 2023 09:09:42 +0300","reports":"waiting","execTime":2}
+2023-04-03 09:10:00,644 - INFO - AppFileLogger - Create mailing started
+2023-04-03 09:10:12,830 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:17:37,800 - INFO - AppFileLogger - scheduler starting
+2023-04-03 09:18:08,050 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:18:08,305 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000024D2F75E700>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-04-03 09:18:08,305 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Mon, 03 Apr 2023 09:18:08 +0300","reports":"waiting","execTime":2}
+2023-04-03 09:18:38,583 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:18:38,752 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000024D2F785970>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-04-03 09:18:38,753 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Mon, 03 Apr 2023 09:18:38 +0300","reports":"waiting","execTime":2}
+2023-04-03 09:19:00,970 - INFO - AppFileLogger - Create mailing started
+2023-04-03 09:19:09,110 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:19:39,481 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:20:09,777 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:20:40,044 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:21:10,343 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:21:40,664 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:22:11,000 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:22:41,346 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:23:11,733 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:23:42,122 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:24:12,493 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:25:08,529 - INFO - AppFileLogger - scheduler starting
+2023-04-03 09:25:38,791 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:25:39,039 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001EA1C7CE700>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-04-03 09:25:39,040 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Mon, 03 Apr 2023 09:25:38 +0300","reports":"waiting","execTime":2}
+2023-04-03 09:26:00,242 - INFO - AppFileLogger - Create mailing started
+2023-04-03 09:26:00,285 - WARNING - AppFileLogger - group ids must be canceled: Группа: 53344519
+Статус: canceled
+2023-04-03 09:26:00,285 - WARNING - AppFileLogger - group ids must be canceled: Группа: 60989786
+Статус: initial
+2023-04-03 09:26:00,285 - WARNING - AppFileLogger - group ids must be canceled: Группа: 87446166
+Статус: canceled
+2023-04-03 09:26:00,294 - WARNING - AppFileLogger -  group id CANCEL commited 
+2023-04-03 09:26:09,406 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:26:39,758 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:27:10,166 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:27:40,552 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:28:10,902 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:28:41,405 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:29:11,718 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:29:49,734 - INFO - AppFileLogger - scheduler starting
+2023-04-03 09:30:00,825 - INFO - AppFileLogger - Create mailing started
+2023-04-03 09:30:00,926 - WARNING - AppFileLogger - group ids must be canceled: 53344519
+2023-04-03 09:30:00,926 - WARNING - AppFileLogger - group ids must be canceled: 60989786
+2023-04-03 09:30:00,926 - WARNING - AppFileLogger - group ids must be canceled: 87446166
+2023-04-03 09:30:20,115 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:30:50,436 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:32:12,232 - INFO - AppFileLogger - scheduler starting
+2023-04-03 09:32:42,484 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:32:42,733 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001D03DA8EEB0>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 53344519, 'value': 'details'}
+2023-04-03 09:32:42,734 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Mon, 03 Apr 2023 09:32:42 +0300","reports":"waiting","execTime":5}
+2023-04-03 09:32:42,891 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001D03DA8E760>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 60989786, 'value': 'details'}
+2023-04-03 09:32:42,891 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Mon, 03 Apr 2023 09:32:42 +0300","reports":"waiting","execTime":1}
+2023-04-03 09:32:43,047 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x000001D03DA8E970>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 87446166, 'value': 'details'}
+2023-04-03 09:32:43,047 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Mon, 03 Apr 2023 09:32:42 +0300","reports":"waiting","execTime":3}
+2023-04-03 09:33:00,221 - INFO - AppFileLogger - Create mailing started
+2023-04-03 09:33:00,270 - WARNING - AppFileLogger - group ids must be canceled: 53344519
+2023-04-03 09:33:00,270 - WARNING - AppFileLogger - group ids must be canceled: 60989786
+2023-04-03 09:33:00,271 - WARNING - AppFileLogger - group ids must be canceled: 87446166
+2023-04-03 09:33:00,287 - WARNING - AppFileLogger - group ids cancel completed
+2023-04-03 09:33:13,420 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:33:43,743 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:34:14,079 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:34:44,403 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:35:14,716 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:35:45,019 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:36:15,342 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:36:45,674 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:37:15,980 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:37:46,327 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:38:16,708 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:38:47,052 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:39:17,407 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:39:47,698 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:40:18,034 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:40:48,387 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:41:18,674 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:41:48,974 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:42:19,358 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:42:49,678 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:43:19,993 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:43:50,347 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:44:20,654 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:44:51,019 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:45:21,318 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:45:51,657 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:46:21,963 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:46:52,325 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:47:22,644 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:47:53,034 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:48:23,314 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:48:53,644 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:49:23,934 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:49:54,217 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:50:24,607 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:50:54,926 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:51:25,234 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:51:55,577 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:52:25,898 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:52:56,251 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:53:26,604 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:53:56,922 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:54:27,267 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:54:57,591 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:55:27,969 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:55:58,303 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:56:28,587 - INFO - AppFileLogger - Updating message statuses
+2023-04-03 09:56:58,879 - INFO - AppFileLogger - Updating message statuses
+2023-04-24 10:14:37,345 - INFO - AppFileLogger - scheduler starting
+2023-04-24 10:15:07,598 - INFO - AppFileLogger - Updating message statuses
+2023-04-24 10:15:07,934 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000026F1633E700>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 43952694, 'value': 'details'}
+2023-04-24 10:15:07,934 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Mon, 24 Apr 2023 10:15:07 +0300","reports":"waiting","execTime":4}
+2023-04-24 10:15:34,826 - INFO - AppFileLogger - scheduler starting
+2023-04-24 10:16:00,031 - INFO - AppFileLogger - Create mailing started
+2023-04-24 10:16:05,190 - INFO - AppFileLogger - Updating message statuses
+2023-04-24 10:16:05,383 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000023BC9B2EB80>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 43952694, 'value': 'details'}
+2023-04-24 10:16:05,383 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Mon, 24 Apr 2023 10:16:05 +0300","reports":"waiting","execTime":3}
+2023-04-24 10:18:49,070 - INFO - AppFileLogger - scheduler starting
+2023-04-24 10:19:00,184 - INFO - AppFileLogger - Create mailing started
+2023-04-24 10:20:43,817 - INFO - AppFileLogger - scheduler starting
+2023-04-24 10:21:00,979 - INFO - AppFileLogger - Create mailing started
+2023-04-24 10:24:56,984 - INFO - AppFileLogger - scheduler starting
+2023-04-24 10:25:00,010 - INFO - AppFileLogger - Create mailing started
+2023-04-24 10:25:00,088 - WARNING - AppFileLogger - group ids must be canceled: 43952694
+2023-04-24 10:25:00,088 - WARNING - AppFileLogger - group ids must be canceled: 53344519
+2023-04-24 10:25:00,089 - WARNING - AppFileLogger - group ids must be canceled: 60989786
+2023-04-24 10:25:00,089 - WARNING - AppFileLogger - group ids must be canceled: 87446166
+2023-04-24 10:29:14,172 - INFO - AppFileLogger - scheduler starting
+2023-04-24 10:29:44,445 - INFO - AppFileLogger - Updating message statuses
+2023-04-24 10:29:44,669 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x0000019723FEE700>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'groupid': 43952694, 'value': 'details'}
+2023-04-24 10:29:44,669 - INFO - AppFileLogger -  response={"state":{"value":"Unknown"},"date":"Mon, 24 Apr 2023 10:29:44 +0300","reports":"waiting","execTime":3}
+2023-04-24 10:30:00,837 - INFO - AppFileLogger - Create mailing started
+2023-04-24 10:30:00,884 - WARNING - AppFileLogger - group ids must be canceled: 43952694
+2023-04-24 10:30:15,041 - INFO - AppFileLogger - Updating message statuses
+2023-04-24 10:35:45,412 - INFO - AppFileLogger - scheduler starting
+2023-04-24 10:36:00,545 - INFO - AppFileLogger - Create mailing started
+2023-04-24 10:36:00,641 - WARNING - AppFileLogger - group ids must be canceled: 43952694
+2023-04-24 10:36:00,649 - WARNING - AppFileLogger - updating group id statuses
+2023-04-24 10:36:15,824 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:21:35,994 - INFO - AppFileLogger - scheduler starting
+2023-07-04 09:22:06,192 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:22:36,751 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:23:07,021 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:23:37,300 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:24:07,568 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:24:37,840 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:25:00,093 - INFO - AppFileLogger - Create mailing started
+2023-07-04 09:25:00,139 - WARNING - AppFileLogger - updating group id statuses
+2023-07-04 09:25:00,405 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms/, auth=<requests.auth.HTTPBasicAuth object at 0x0000013866928B20>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'uniq_key': 47195123, 'id': 'individual', 'source': 'EVEREST', 'desc': 'Payment remind', 'type': 'SMS', 'to': [{'msisdn': '+380963417968', 'body': {'value': 'Проверка'}}]}
+2023-07-04 09:25:00,405 - INFO - AppFileLogger -  response={"state":{"value":"Accepted"},"id":6617336329846,"date":"Tue, 04 Jul 2023 09:25:00 +0300","execTime":84}
+2023-07-04 09:25:08,446 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:25:08,658 - INFO - AppFileLogger -  post data: url=https://api.omnicell.com.ua/ip2sms-request/, auth=<requests.auth.HTTPBasicAuth object at 0x00000138669CCF10>, headers={'Host': 'api.omnicell.com.ua', 'Content-type': 'application/json;charset=UTF-8', 'Accept': 'application/json', 'user-agent': 'SMS server'}, json={'extended': True, 'id': '6617336329846', 'value': 'state'}
+2023-07-04 09:25:08,659 - INFO - AppFileLogger -  response={"state":{"value":"Delivered"},"deliveryDate":"2023-07-04T06:25:03.283+00:00","id":6617336329846,"date":"Tue, 04 Jul 2023 09:25:08 +0300","execTime":2,"deliveryChannel":"SMS","direction":"kievstar"}
+2023-07-04 09:25:39,087 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:26:09,376 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:26:39,728 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:27:10,036 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:27:40,345 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:28:10,632 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:28:41,023 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:29:11,303 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:29:41,591 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:30:11,922 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:30:42,213 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:31:12,481 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:31:42,785 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:32:13,100 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:32:43,405 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:33:13,685 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:33:43,979 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:34:14,268 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:34:44,555 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:35:14,856 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:35:45,137 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:36:15,434 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:36:45,714 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:37:15,992 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:37:46,256 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:38:16,544 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:38:46,854 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:39:17,182 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:39:47,480 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:40:17,768 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:40:48,046 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:41:18,334 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:41:48,613 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:42:18,915 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:42:49,230 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:43:19,490 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:43:49,778 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:44:20,099 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:44:50,430 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:45:20,710 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:45:51,054 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:46:21,363 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:46:51,684 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:47:21,954 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:47:52,276 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:48:22,562 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:48:52,902 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:49:23,253 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:49:53,602 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:50:23,886 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:50:54,237 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:51:24,566 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:51:54,891 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:52:25,210 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:52:55,539 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:53:25,785 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:53:56,080 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:54:26,370 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:54:56,696 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:55:26,980 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:55:57,371 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:56:27,687 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:56:57,923 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:57:28,251 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:57:58,585 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:58:28,918 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:58:59,248 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:59:29,635 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 09:59:59,986 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:00:30,326 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:01:00,601 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:01:30,901 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:02:01,201 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:02:31,517 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:03:01,805 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:03:32,073 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:04:02,380 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:04:32,677 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:05:02,935 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:05:33,197 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:06:03,491 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:06:33,802 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:07:00,061 - INFO - AppFileLogger - Making email report
+2023-07-04 10:07:04,027 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:07:34,293 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:08:04,557 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:08:34,900 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:09:05,199 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:09:35,487 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:10:05,770 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:10:36,042 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:11:06,360 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:11:36,695 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:12:07,029 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:12:37,372 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:13:07,674 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:13:37,929 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:14:08,230 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:14:38,527 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:15:08,810 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:15:39,130 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:16:09,421 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:16:39,715 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:17:10,075 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:17:40,435 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:18:10,747 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:18:41,056 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:19:11,353 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:19:41,673 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:20:11,973 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:20:42,255 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:21:12,592 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:21:42,908 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:22:13,215 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:22:43,491 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:23:13,783 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:23:44,034 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:24:14,294 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:24:44,620 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:25:14,890 - INFO - AppFileLogger - Updating message statuses
+2023-07-04 10:25:45,194 - INFO - AppFileLogger - Updating message statuses
